@@ -1,0 +1,23 @@
+Date: 2/9/18 (Friday)
+Ticker: PFE
+Stock Price: 33.90
+Option: Feb 16 35 Call
+Quantity: 4
+Duration: Weekly (5 trading days)
+Option Price: 0.20
+Scenarios:
+    Drops to 0 immediately:       40% chance drops to 33 or below.       
+    Drops to 0 to theta decay:     0% chance market too volatile.
+    Worth 50 - 100% at expiry:    35% chance gets stuck at resistance at 35.
+    Returns 100 - 300%:           15% chance gets to 37.
+    Returns 1000%:                 0% chance. IV too high.
+Exit Stock Prices:   35   37 
+Exit Option Prices:   0    2
+
+Realized Stock Price:
+Realized Option Price:
+Realized Gain:
+
+Notes:
+2/9/18 Also seems like a trade where the risk is properly priced. 
+Or maybe I am underestimating the potential move on the upside just as I underestimate the downside moves.
