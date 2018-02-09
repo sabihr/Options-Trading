@@ -1,0 +1,21 @@
+Date: 2/9/18 (Friday)
+Ticker: JPM
+Stock Price: 109.10
+Option: Feb 16 112 Call
+Duration: Weekly (5 trading days)
+Option Price: 0.91
+Scenarios:
+    Drops to 0 immediately:       40% goes to 105 or 103.
+    Drops to 0 to theta decay:    10% ends between 108 to 111.
+    Worth 50 - 100% at expiry:    20% could go up to 20dma at 113.
+    Returns 100 - 300%:           30% could go up to 115.
+    Returns 1000%:                 0% chance. IV too high.
+Exit Stock Prices:   112.7  116
+Exit Option Prices:    0.7    4
+
+Realized Stock Price:
+Realized Option Price:
+Realized Gain:
+
+Notes:
+2/9/18 Looking at the scenarios, this does not seem to be a mispriced risk reward. Was a bit foolish to pull the trigger.
