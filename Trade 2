@@ -14,10 +14,14 @@ Scenarios:
 Exit Stock Prices:   35   37 
 Exit Option Prices:   0    2
 
-Realized Stock Price:
-Realized Option Price:
-Realized Gain:
+Realized Stock Price: 2 options at 35.56, 2 options at 36.17 
+Realized Option Price: 2 options at 0.61, 2 options at 1.16 (Avg 0.885)
+Realized Gain: $ 267 (322%)
+Value at Expiry: $1.26
+Stock Price at Expiry: 36.26
 
 Notes:
 2/9/18 Also seems like a trade where the risk is properly priced. 
 Or maybe I am underestimating the potential move on the upside just as I underestimate the downside moves.
+
+2/16/18 resistance points were incorrectly calculated. Another resistance at 35.40 should have been inculded.
