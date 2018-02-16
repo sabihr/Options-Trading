@@ -13,9 +13,11 @@ Scenarios:
 Exit Stock Prices:   112.7  116
 Exit Option Prices:    0.7    4
 
-Realized Stock Price:
-Realized Option Price:
-Realized Gain:
+Realized Stock Price: 114.24
+Realized Option Price:  2.52
+Realized Gain: $159 (173%)
+Value at Expiry: $2.68
+Stock Price at Expiry: $114.68
 
 Notes:
 2/9/18 Looking at the scenarios, this does not seem to be a mispriced risk reward. Was a bit foolish to pull the trigger.
