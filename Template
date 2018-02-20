@@ -2,18 +2,23 @@ Date:
 Ticker:
 Stock Price:
 Option:
+Quantity:
 Duration:
 Option Price:
 Scenarios:
-    Drops to 0 immediately:
-    Drops to 0 to theta decay:
-    Worth 20 - 80% at expiry:
-    Worth 120 - 230% at expiry:
-    Returns 400%:
-    Returns 1000%:
-Exit Stock Prices:
-Exit Option Prices:
+    Drops to 0 immediately:           
+    Drops to 0 to theta decay:    
+    Worth 50 - 100% at expiry:    
+    Returns 100 - 300%:           
+    Returns 1000%:                
+Exit Stock Prices:  
+Exit Option Prices:   
 
-Realized Stock Price:
-Realized Option Price:
-Realized Gain:
+Realized Stock Price: 
+Realized Option Price: 
+Realized Gain: 
+Value at Expiry: 
+Stock Price at Expiry: 
+
+Notes:
+
